@@ -137,5 +137,5 @@ The full dashboard for this analysis was built entirely in Excel and consolidate
 - Seasonal Travel Patterns
 
 ---
-![Dashboard](US_international_Travel_dashbaord.jpg)
+![Dashboard](images/US_international_Travel_dashbaord.jpg)
 
